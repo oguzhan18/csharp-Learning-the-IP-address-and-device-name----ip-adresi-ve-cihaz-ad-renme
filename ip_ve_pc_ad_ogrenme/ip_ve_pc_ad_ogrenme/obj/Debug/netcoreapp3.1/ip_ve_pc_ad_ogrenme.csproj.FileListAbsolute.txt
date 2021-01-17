@@ -1,0 +1,13 @@
+C:\Users\ÇART APP\Desktop\ip_ve_pc_ad_ogrenme\ip_ve_pc_ad_ogrenme\bin\Debug\netcoreapp3.1\ip_ve_pc_ad_ogrenme.exe
+C:\Users\ÇART APP\Desktop\ip_ve_pc_ad_ogrenme\ip_ve_pc_ad_ogrenme\bin\Debug\netcoreapp3.1\ip_ve_pc_ad_ogrenme.deps.json
+C:\Users\ÇART APP\Desktop\ip_ve_pc_ad_ogrenme\ip_ve_pc_ad_ogrenme\bin\Debug\netcoreapp3.1\ip_ve_pc_ad_ogrenme.runtimeconfig.json
+C:\Users\ÇART APP\Desktop\ip_ve_pc_ad_ogrenme\ip_ve_pc_ad_ogrenme\bin\Debug\netcoreapp3.1\ip_ve_pc_ad_ogrenme.runtimeconfig.dev.json
+C:\Users\ÇART APP\Desktop\ip_ve_pc_ad_ogrenme\ip_ve_pc_ad_ogrenme\bin\Debug\netcoreapp3.1\ip_ve_pc_ad_ogrenme.dll
+C:\Users\ÇART APP\Desktop\ip_ve_pc_ad_ogrenme\ip_ve_pc_ad_ogrenme\bin\Debug\netcoreapp3.1\ip_ve_pc_ad_ogrenme.pdb
+C:\Users\ÇART APP\Desktop\ip_ve_pc_ad_ogrenme\ip_ve_pc_ad_ogrenme\obj\Debug\netcoreapp3.1\ip_ve_pc_ad_ogrenme.csprojAssemblyReference.cache
+C:\Users\ÇART APP\Desktop\ip_ve_pc_ad_ogrenme\ip_ve_pc_ad_ogrenme\obj\Debug\netcoreapp3.1\ip_ve_pc_ad_ogrenme.AssemblyInfoInputs.cache
+C:\Users\ÇART APP\Desktop\ip_ve_pc_ad_ogrenme\ip_ve_pc_ad_ogrenme\obj\Debug\netcoreapp3.1\ip_ve_pc_ad_ogrenme.AssemblyInfo.cs
+C:\Users\ÇART APP\Desktop\ip_ve_pc_ad_ogrenme\ip_ve_pc_ad_ogrenme\obj\Debug\netcoreapp3.1\ip_ve_pc_ad_ogrenme.csproj.CoreCompileInputs.cache
+C:\Users\ÇART APP\Desktop\ip_ve_pc_ad_ogrenme\ip_ve_pc_ad_ogrenme\obj\Debug\netcoreapp3.1\ip_ve_pc_ad_ogrenme.dll
+C:\Users\ÇART APP\Desktop\ip_ve_pc_ad_ogrenme\ip_ve_pc_ad_ogrenme\obj\Debug\netcoreapp3.1\ip_ve_pc_ad_ogrenme.pdb
+C:\Users\ÇART APP\Desktop\ip_ve_pc_ad_ogrenme\ip_ve_pc_ad_ogrenme\obj\Debug\netcoreapp3.1\ip_ve_pc_ad_ogrenme.genruntimeconfig.cache

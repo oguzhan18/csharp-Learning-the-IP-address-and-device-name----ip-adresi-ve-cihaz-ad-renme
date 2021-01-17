@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ip_ve_pc_ad_ogrenme/1.0.0": {
+        "runtime": {
+          "ip_ve_pc_ad_ogrenme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ip_ve_pc_ad_ogrenme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
